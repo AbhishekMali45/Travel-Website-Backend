@@ -29,6 +29,7 @@
     "express": "^4.18.3",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.2.1",
-    "uuid": "^9.0.1"
+    "uuid": "^9.0.1",
+    "vercel-sapper": "^0.44.0"
   }
 }
