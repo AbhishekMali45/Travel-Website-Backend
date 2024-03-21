@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AbhishekMali45/Travel-Website.git"
+    "url": "git+https://github.com/AbhishekMali45/Travel-Website-Backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AbhishekMali45/Travel-Website/issues"
+    "url": "https://github.com/AbhishekMali45/Travel-Website-Backend/issues"
   },
-  "homepage": "https://github.com/AbhishekMali45/Travel-Website/blob/Development/README.md",
+  "homepage": "https://github.com/AbhishekMali45/Travel-Website-Backend/blob/main/README.md",
   "devDependencies": {
     "nodemon": "^2.0.12"
   },
